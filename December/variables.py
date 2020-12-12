@@ -23,3 +23,7 @@ The integer variable is modified to String and printed.
 """
 number = str("Integer modified to String")
 print (number)
+
+print(type(number))
+print(type(helloString))
+
