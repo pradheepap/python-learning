@@ -58,3 +58,25 @@ x,y,z = fruits
 print(x)
 print(y)
 print(z)
+
+
+'''
+Concatinating variables
+'''
+
+x = "Hello, Today is December "
+y = "12"
+
+print(x + y)
+
+'''
+ Print Integer and String
+ Type cast integer to string while printing
+'''
+
+x = "Hello, Today is December  "
+y = 12
+z = "Its printed with String and Integer variable"
+
+print(x + str(y))
+print (z)
