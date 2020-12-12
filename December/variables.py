@@ -20,8 +20,12 @@ print (helloString)
 """
 This is a multiline comment
 The integer variable is modified to String and printed.
+
+String variables can be declared either by using single or double quotes:
+
+
 """
-number = str("Integer modified to String")
+number = str('Integer modified to String')
 print (number)
 
 print(type(number))
